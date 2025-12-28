@@ -38,3 +38,4 @@ g++ main.cpp -o tarea -O3
 ```
 g++ main.cpp -o app_pro -O2 -lgdi32 -lcomdlg32 -fopenmp
 ```
+NOTE: GPU simulation was not implemented in CUDA Runtime
